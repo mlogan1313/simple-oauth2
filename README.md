@@ -19,7 +19,7 @@
     - [Supported Grant Types](#supported-grant-types)
       - [Authorization Code Grant](#authorization-code-grant)
       - [Resource Owner Password Credentials Grant](#resource-owner-password-credentials-grant)
-      - [Client Credentials Grant](#client-credentials-grant)
+      - [Client Credentials Grant](_client-credentials-grant)
     - [Access Token](#access-token)
       - [Refresh an access token](#refresh-an-access-token)
       - [Revoke an access or refresh token](#revoke-an-access-or-refresh-token)
